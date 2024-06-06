@@ -1,0 +1,6 @@
+node,connected_nodes
+A,"B,C"
+B,"A,D"
+C,"A,D"
+D,"B,C,E"
+E,D
